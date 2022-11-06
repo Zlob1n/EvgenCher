@@ -17,7 +17,7 @@ nav{
 
 .menu{
     float: left;
-    padding-left: 430px;
+    padding-left: 730px;
     
 }
 
@@ -129,8 +129,40 @@ nav{
 .clear{
     clear:left;
 }
-
-.statistic_container h2{
+.portfolio h2{
+    margin-top: 30px;
+    text-align: center;
+}
+.cases_item p{
+    text-align: center;
+}
+.cases_item img{
+    margin: 20px 0px 20px 200px;
+    text-align: center;
+}
+.description{
+   width: 920px;
+   margin: 0 auto;
+}
+.description_left{
+  float: left;
+    width: 230px; 
+}
+.description_right{
+    float: left;
+    width: 400px;
+}
+.calculator{
+   text-align: center;
+   width: 500px;
+   margin-top: 170px;
+   margin-left: 550px;    
+}
+.calculator_container{
+    text-align: center;
+    margin: 25px;
+}
+.statistics_container h2{
     text-align: center;
 /*    border-bottom: 4px solid #d17700;*/
     width: 96px;
@@ -138,13 +170,58 @@ nav{
     margin: 10px auto;
     padding-bottom: 5px;
 }
-.statistic_container{
+.statistics_container{
     width: 940px;
     margin: 0 auto;
 }
 .statistic_item{
     display: inline-block;
     width: 230px;
+    text-align: center;
+}
+.reviews{
+    text-align: center;
+    margin: 30px;
+}
+.reviews_container h2{
+    margin-top: 55px;
+}
+.review img{
+    margin: 30px; 
+}
+.review p{
+    margin: 30px; 
+}
+.contacts_container h2{
+    text-align: center;
+}
+.contacts_container{
+    width: 940px;
+    margin: 0 auto;
+}
+.contacts_data_item{
+    float: left;
+    width: 230px;
+    text-align: center;
+}
+.contacts_container h3{
+    text-align: center;
+}
+.contacts_inputs{
+    text-align: center;
+    margin-top: 100px;
+    
+}
+.contacts_social{
+    float: left;
+    width: 800px;
+    margin-left: 450px;
+    text-align: center;  
+}
+.contacts_social img{
+    margin: 30px;
+}
+.footer_container{
     text-align: center;
 }
 .mySelect{
